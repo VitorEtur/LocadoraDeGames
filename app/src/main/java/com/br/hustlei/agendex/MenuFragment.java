@@ -13,11 +13,11 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 
-public class MenuFragment extends Fragment {
+public class MenuFragment extends Fragment { //***Criando Fragmento de Menu
 
     public MenuFragment() { }
 
-    @Override
+    @Override /*Método sobrescrever*/
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);

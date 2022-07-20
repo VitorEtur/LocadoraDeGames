@@ -5,10 +5,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.br.hustlei.agendex.cliente.MainFragment;
+//***Importando recursos da biblioteca do Android Studio
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity { //***Classe Main Activity
 
-    @Override
+    @Override //***Sobrescrita de método
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);

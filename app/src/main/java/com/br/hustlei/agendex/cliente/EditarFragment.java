@@ -10,19 +10,22 @@ import android.view.ViewGroup;
 
 import com.br.hustlei.agendex.R;
 
-public class ListarFragment extends Fragment { /*Criando classe de fragmento da lista de clientes*/
+public class EditarFragment extends Fragment {
 
-    public ListarFragment() { } /*Classe lista de clientes*/
+    public EditarFragment() {
+        // Required empty public constructor
+    }
 
-    @Override /*Método para sobrescrever/herdar de uma classe mãe/pai*/
+    @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.cliente_fragment_listar, container, false);
+        return inflater.inflate(R.layout.cliente_fragment_editar, container, false);
     }
 }

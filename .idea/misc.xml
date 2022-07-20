@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/layout/cliente_fragment_adicionar.xml" value="0.25" />
+        <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/layout/cliente_fragment_editar.xml" value="0.25" />
         <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/layout/cliente_fragment_listar.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/layout/cliente_fragment_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/layout/fragment_menu.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/layout/menu.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Hustlei/AndroidStudioProjects/AgendeX/app/src/main/res/menu/menu.xml" value="0.1259259259259259" />
       </map>
     </option>
   </component>

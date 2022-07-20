@@ -1,10 +1,22 @@
-<resources>
+<resources> <!--Utilizando strings vc pode modificar um item aqui que muda em todos os outros arquivos-->
     <string name="app_name">Chatuba Games</string>
+    <!--Aqui vc pode mudar o nome do app ^ / e armazenar strings-->
+    <!--Menus-->
     <string name="menu_cliente">Cliente</string>
     <string name="menu_games">Games</string>
     <string name="menu_locacao">Locação</string>
+    <!--Listar e gerenciar-->
     <string name="listar_clientes">Listar Clientes</string>
     <string name="gerenciar_clientes">Gerenciar Clientes</string>
+    <!--CRUD-->
     <string name="listar">Listar</string>
     <string name="adicionar">Adicionar</string>
+    <string name="editar">Editar</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <!--campos de inserção de dados-->
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="celular">Celular</string>
+
 </resources>
