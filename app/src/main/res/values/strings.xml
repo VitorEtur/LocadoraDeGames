@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chatuba Games</string>
+    <string name="menu_cliente">Cliente</string>
+    <string name="menu_games">Games</string>
+    <string name="menu_locacao">Locação</string>
+    <string name="listar_clientes">Listar Clientes</string>
+    <string name="gerenciar_clientes">Gerenciar Clientes</string>
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+</resources>
